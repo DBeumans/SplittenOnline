@@ -1,0 +1,1387 @@
+fileFormatVersion: 2
+guid: fdf4ca059e1d1d74abeb8fc3e4f5a45e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -426358106384411158
+    second: Atlasnye_heart_1
+  - first:
+      213: 5474406105830236070
+    second: Atlasnye_heart_2
+  - first:
+      213: -8252906826797821360
+    second: Atlasnye_heart_3
+  - first:
+      213: 6314303052565487848
+    second: Atlasnye_heart_4
+  - first:
+      213: -6158228819875920483
+    second: Atlasnye_heart_5
+  - first:
+      213: -1529339907282746310
+    second: Atlasnye_heart_6
+  - first:
+      213: -245668823429044090
+    second: Atlasnye_heart_7
+  - first:
+      213: -7733843365342056705
+    second: Atlasnye_heart_8
+  - first:
+      213: 2993382128882378351
+    second: Atlasnye_heart_9
+  - first:
+      213: 460489691238856545
+    second: Atlasnye_heart_10
+  - first:
+      213: -5048629543974531693
+    second: Atlasnye_heart_a
+  - first:
+      213: -7079979514673805659
+    second: Atlasnye_heart_b
+  - first:
+      213: 1411588640550748992
+    second: Atlasnye_heart_c
+  - first:
+      213: 1624073765229118596
+    second: Atlasnye_diamond_1
+  - first:
+      213: 8376399374823314189
+    second: Atlasnye_diamond_2
+  - first:
+      213: 7891373652067246317
+    second: Atlasnye_diamond_3
+  - first:
+      213: -1902054495404470728
+    second: Atlasnye_diamond_4
+  - first:
+      213: -8128602298758456719
+    second: Atlasnye_diamond_5
+  - first:
+      213: -3111633203707271201
+    second: Atlasnye_diamond_6
+  - first:
+      213: 1859029526014376840
+    second: Atlasnye_diamond_7
+  - first:
+      213: 8241936149975315324
+    second: Atlasnye_diamond_8
+  - first:
+      213: -1999361260627571716
+    second: Atlasnye_diamond_9
+  - first:
+      213: 2367978078093219300
+    second: Atlasnye_diamond_10
+  - first:
+      213: 8310439140918528204
+    second: Atlasnye_diamond_a
+  - first:
+      213: 6171743396206430537
+    second: Atlasnye_diamond_b
+  - first:
+      213: -3532548187703693948
+    second: Atlasnye_diamond_c
+  - first:
+      213: -853734339908177119
+    second: Atlasnye_club_1
+  - first:
+      213: -4355573928612139630
+    second: Atlasnye_club_2
+  - first:
+      213: -1342362390593950583
+    second: Atlasnye_club_3
+  - first:
+      213: 6659837809800815846
+    second: Atlasnye_club_4
+  - first:
+      213: -175346313854821329
+    second: Atlasnye_club_5
+  - first:
+      213: -7118250754783558758
+    second: Atlasnye_club_6
+  - first:
+      213: 2783043820614894337
+    second: Atlasnye_club_7
+  - first:
+      213: -4457956199000841040
+    second: Atlasnye_club_8
+  - first:
+      213: -8694062397269591437
+    second: Atlasnye_club_9
+  - first:
+      213: -5462600671646061318
+    second: Atlasnye_club_10
+  - first:
+      213: -4655492775889372388
+    second: Atlasnye_club_a
+  - first:
+      213: 3439200190888018194
+    second: Atlasnye_club_b
+  - first:
+      213: 1364988554538132450
+    second: Atlasnye_club_c
+  - first:
+      213: 2716177924971326388
+    second: Atlasnye_spade_1
+  - first:
+      213: 6050332047227961677
+    second: Atlasnye_spade_2
+  - first:
+      213: -5492149145319305798
+    second: Atlasnye_spade_3
+  - first:
+      213: 77141843881333299
+    second: Atlasnye_spade_4
+  - first:
+      213: -7823384197928525983
+    second: Atlasnye_spade_5
+  - first:
+      213: -7080374104342107004
+    second: Atlasnye_spade_6
+  - first:
+      213: 334999923354145918
+    second: Atlasnye_spade_7
+  - first:
+      213: -5334831900933027562
+    second: Atlasnye_spade_8
+  - first:
+      213: 694018800440995044
+    second: Atlasnye_spade_9
+  - first:
+      213: 2827665048256047716
+    second: Atlasnye_spade_10
+  - first:
+      213: 1452829816479504463
+    second: Atlasnye_spade_a
+  - first:
+      213: 434115271117708931
+    second: Atlasnye_spade_b
+  - first:
+      213: -785391684891617374
+    second: Atlasnye_spade_c
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlasnye_heart_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1539
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e097315745c9744499142bbb07dbf6d
+      internalID: -426358106384411158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_heart_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1539
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad1ded89d8c7574db67f7aa5fc212f9
+      internalID: 5474406105830236070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_heart_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1539
+        width: 329
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f38ea7115174b45aa077f0daed39d8
+      internalID: -8252906826797821360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_heart_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1539
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce726b78d5ec4d4d9d7087bce4af7c6
+      internalID: 6314303052565487848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_heart_5
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1539
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282c9c8c51a13af4387cd5070f6786f0
+      internalID: -6158228819875920483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_heart_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1539
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05baee863ada8d14b9f6eaf0f1ec857d
+      internalID: -1529339907282746310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_heart_7
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1539
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102593aa088f0f140a7fed7171150425
+      internalID: -245668823429044090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_heart_8
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1539
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca2af1132cc44844a0068051a6f9759
+      internalID: -7733843365342056705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_heart_9
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 1539
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5914f1aaaf57947803cf94a3f43ab7
+      internalID: 2993382128882378351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_heart_10
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1539
+        width: 327
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d26bd3ca3f0c254c80d930f39c71b5b
+      internalID: 460489691238856545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_heart_a
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 1539
+        width: 329
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb42636c76836b418edff22b874d5ae
+      internalID: -5048629543974531693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_heart_b
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 1539
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee541e0ea99dfb44b830ec7eafa2752
+      internalID: -7079979514673805659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_heart_c
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 1539
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cd860322d7ff64ba3a22a3aae9da69
+      internalID: 1411588640550748992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1034
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f39cbd365ee76849b96e22119b1cd16
+      internalID: 1624073765229118596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1034
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad81eafc82b92444cb69b887be568126
+      internalID: 8376399374823314189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1034
+        width: 327
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9bb1d5543f2fe4fba05953ee2faf7f
+      internalID: 7891373652067246317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1034
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f9219167cd64649a7e3be89d4fd988
+      internalID: -1902054495404470728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_5
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1034
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ce00ea46544144d9009764a895b0a6
+      internalID: -8128602298758456719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1034
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d41c858dede02043b2f49e7451c8383
+      internalID: -3111633203707271201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_7
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 1034
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d524f5432c8a794aa0fe817a7a60af9
+      internalID: 1859029526014376840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_8
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1034
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da784d492aa1900459a178045d7eef14
+      internalID: 8241936149975315324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_9
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 1034
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aca6c0d407c09545b2ebe3db2b3adbf
+      internalID: -1999361260627571716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_10
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1034
+        width: 327
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5180d9cbd4de9c849a491c66e0779fa3
+      internalID: 2367978078093219300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_a
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 1034
+        width: 327
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c648689999c07e146998aeec4ad343b7
+      internalID: 8310439140918528204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_b
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 1034
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0221ce698c3044caf136eefdc51912
+      internalID: 6171743396206430537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_diamond_c
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 1034
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3701bc31f43ca9a4394abb8d58326cdb
+      internalID: -3532548187703693948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 529
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4758a4ad2d84aa4409b57745cc36c0c8
+      internalID: -853734339908177119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 529
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723e4867407afd240a64e6ac25fb4ca1
+      internalID: -4355573928612139630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 529
+        width: 327
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a373988db8d4f6748a273bf12866390d
+      internalID: -1342362390593950583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 529
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0bc1c065c325847a2e0cddc9531fe5
+      internalID: 6659837809800815846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_5
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 529
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f18c8cb13307304d872f4c0ad82fbcf
+      internalID: -175346313854821329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 529
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef50abcf35d7d34cbe1c1755f2b02ec
+      internalID: -7118250754783558758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_7
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 529
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfa96ba81632fc44b4550749257b602
+      internalID: 2783043820614894337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_8
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 529
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5636b6f68ae83cc4fa191defd047f93b
+      internalID: -4457956199000841040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_9
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 529
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b758b6acab91f14ea804c86b003cc36
+      internalID: -8694062397269591437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_10
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 529
+        width: 327
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da19d170e95e7af448139a079c7c00b1
+      internalID: -5462600671646061318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_a
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 529
+        width: 327
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b519a722c0c824f41b0d3ebb90ca12e9
+      internalID: -4655492775889372388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_b
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 529
+        width: 324
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf2ab2cb5d7e141bab98479bbed761
+      internalID: 3439200190888018194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_club_c
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 529
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f91ad2bc1833a40b5022920385a57d
+      internalID: 1364988554538132450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79b62c998d29a941885be42e4afcc1a
+      internalID: 2716177924971326388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 23
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fbbdc3e165ac94d8b9822b7d97cf74
+      internalID: 6050332047227961677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 23
+        width: 329
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1edee024c27d4b8a8f5ae60a7079c
+      internalID: -5492149145319305798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 23
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d69b6779c9fc624f9536b7d1e172222
+      internalID: 77141843881333299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_5
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 23
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fab9e1dc6fbd20499120035a22b4390
+      internalID: -7823384197928525983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 23
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d067b2bab30981248bbee27920377979
+      internalID: -7080374104342107004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_7
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 23
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917112a492c08ab4699ac4a6c5e57970
+      internalID: 334999923354145918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_8
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 23
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1833b9bef5f14194997120dfaf7b46e5
+      internalID: -5334831900933027562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_9
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 23
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58991cbfd8a10eb4f9a61dc02395639c
+      internalID: 694018800440995044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_10
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 23
+        width: 327
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f317cf1dd36564596800af5f4b5f48
+      internalID: 2827665048256047716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_a
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 23
+        width: 329
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2997a9f0f256e0c4588a0da8398e78cd
+      internalID: 1452829816479504463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_b
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 23
+        width: 324
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35efa5a5e248194dab9d80423d437ae
+      internalID: 434115271117708931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlasnye_spade_c
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 27
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e086d1c702ec7469e9906f7854c4d2
+      internalID: -785391684891617374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -16,7 +16,7 @@ namespace Splitten.UI
 
         private Vector2 clickPosition;
 
-        private Image imageComponent;
+        protected Image imageComponent;
 
         #region Color
         [SerializeField] private Color defaultColor = default;
@@ -124,6 +124,14 @@ namespace Splitten.UI
             posY = this.buttonRectTransform.position.y;
 
             this.buttonBounds = new Rect(posX - (width/2), posY - (height/2), width, height);
+
+
+        }
+
+        private void OnDrawGizmos()
+        {
+            Gizmos.color = Color.red;
+            Gizmos.DrawCube(this.transform.position, this.buttonBounds.size);
         }
         #endregion
     }

@@ -6,3 +6,15 @@
         RELEASED
     }
 }
+
+namespace Splitten.Cards
+{
+    public enum CardType
+    {
+        HEARTS,
+        DIAMONDS,
+        SPADES,
+        CLUBS,
+        JOKER
+    }
+}

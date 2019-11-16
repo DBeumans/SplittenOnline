@@ -10,7 +10,7 @@ namespace Splitten.UI
         [SerializeField]private UIScreen activeScreen;
 
         [SerializeField]private List<UIScreen> screens = new List<UIScreen>();
-        private void Awake()
+        private void Start()
 	    {
             this.FetchScreens();
 
