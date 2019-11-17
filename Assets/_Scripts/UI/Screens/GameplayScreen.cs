@@ -14,27 +14,26 @@ public class GameplayScreen : UIScreen
 
     [SerializeField] private GameObject scrollView;
 
-    private void Start()
-    {
-        loader.OnLoadingCompleted += InstantiateCards;
-    }
-
     private void OnEnable()
     {
         backButton.OnButtonClick += () =>
         {
             base.UIController.GoToScreen<MainScreen>();
         };
+
+        loader.OnLoadingCompleted += InstantiateCards;
     }
 
     private void InstantiateCards()
     {
         this.Cards = loader.Deck;
-        for (int i = 0; i < 4; i++)
+        for (int i = 0; i < this.Cards.Count; i++)
         {
             CardUIButton cardObject = Instantiate(cardPrefab);
-            cardObject.Card = Cards[i];
             cardObject.transform.SetParent(scrollView.transform);
+            cardObject.Card = Cards[i];
+            cardObject.Test();
+            
         }
     }
 

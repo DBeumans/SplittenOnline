@@ -23,13 +23,13 @@ namespace Splitten.UI
         public virtual void EnableScreen()
         {
             this.screenCanvas.gameObject.SetActive(true);
-            Debug.Log($"ENABLED {this} ");
+            //Debug.Log($"ENABLED {this} ");
         }
 
         public virtual void DisableScreen()
         {
             this.screenCanvas.gameObject.SetActive(false);
-            Debug.Log($"DISABLED {this} ");
+            //Debug.Log($"DISABLED {this} ");
         }
     }
 }

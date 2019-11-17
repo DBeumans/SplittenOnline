@@ -2,6 +2,7 @@
 
 namespace Splitten.Cards
 {
+    [System.Serializable]
     public class Card
     {
         public int value;
@@ -15,6 +16,7 @@ namespace Splitten.Cards
         {
 
         }
+
         public Card(int value, CardType type, Sprite sprite)
         {
             this.value = value;

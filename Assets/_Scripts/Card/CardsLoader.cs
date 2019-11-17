@@ -19,13 +19,19 @@ namespace Splitten.Cards
 
         private void Start()
         {
-            this.Load("Atlasnye");
+            this.LoadDeck("Atlasnye");
         }
 
-        public void Load(string cardsDeckName)
+        public void LoadDeck(string deckName)
+        {
+            this.Deck = this.Load(deckName);
+            this.OnLoadingCompleted?.Invoke();
+        }
+
+        private List<Card> Load(string cardsDeckName)
         {
             object[] cards = Resources.LoadAll(this.cardsDeckPath + "/" + cardsDeckName, typeof(Sprite));
-
+            List<Card> deck = new List<Card>();
             int cardsLength = cards.Length;
             int count = 0;
             CardType cardType = CardType.CLUBS;
@@ -44,15 +50,17 @@ namespace Splitten.Cards
                     cardType = CardType.CLUBS;
                 if (currentCardFileName.Contains("spade"))
                     cardType = CardType.SPADES;
+                if (currentCardFileName.Contains("joker"))
+                    cardType = CardType.JOKER;
                 
                 Card card = new Card(count, cardType, (Sprite)cards[i]);
                 if (count >= 13)
                     count = 0;
 
-                this.Deck.Add(card);
+                deck.Add(card);
             }
-
-            this.OnLoadingCompleted?.Invoke();
+            
+            return deck;
         }
     }
 }
