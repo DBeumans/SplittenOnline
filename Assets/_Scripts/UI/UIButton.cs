@@ -7,16 +7,18 @@ namespace Splitten.UI
 {
     public class UIButton : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
     {
+        /*
         private Vector2 buttonSize;
         private Rect buttonBounds;
         private RectTransform buttonRectTransform;
+        */
         [SerializeField] private bool interactable = true;
 
         [SerializeField] private ButtonState buttonState = ButtonState.RELEASED;
 
         private Vector2 clickPosition;
 
-        private Image imageComponent;
+        protected Image imageComponent;
 
         #region Color
         [SerializeField] private Color defaultColor = default;
@@ -31,11 +33,12 @@ namespace Splitten.UI
         #endregion
 
         #region Methods
-        private void Start()
+        private void Awake()
         {
-            this.CalculateButtonInformation();
+            //this.CalculateButtonInformation();
             this.imageComponent = this.GetComponent<Image>();
             this.imageComponent.color = this.defaultColor;
+            
 
         }
 
@@ -68,13 +71,17 @@ namespace Splitten.UI
             //Checking if the player used the left mouse button to click. If not, no click will be detected.
             if (eventData.button != PointerEventData.InputButton.Left || this.enabled == false)
                 return;
-
-            if (this.buttonBounds.Contains(this.clickPosition))
+            /*
+            if (this.buttonRectTransform.rect.Contains(eventData.position))
             {
                 this.OnClick();
                 this.clickPosition = default;
-            }
+            }*/
 
+            if (this.clickPosition.Equals(eventData.position))
+                this.OnClick();
+
+            this.clickPosition = default;
             this.buttonState = ButtonState.RELEASED;
             this.Transition();
             this.OnButtonUp?.Invoke();
@@ -104,6 +111,7 @@ namespace Splitten.UI
             }
         }
 
+        /*
         /// <summary>
         /// Calculating the button bounds.
         /// </summary>
@@ -123,8 +131,20 @@ namespace Splitten.UI
             posX = this.buttonRectTransform.position.x;
             posY = this.buttonRectTransform.position.y;
 
-            this.buttonBounds = new Rect(posX - (width/2), posY - (height/2), width, height);
+            //this.buttonBounds = new Rect(posX - (width/2), posY - (height/2), width, height);
+            //this.buttonBounds = new Rect(posX, posY, width, height);
+            this.buttonBounds = this.buttonRectTransform.rect;
+
+            Debug.Log($"Bounds:  {this.buttonBounds}");
         }
+
+        private void OnDrawGizmos()
+        {
+            Gizmos.color = Color.red;
+            Gizmos.DrawCube(this.transform.position, this.buttonRectTransform.rect.size);
+        }
+
+    */
         #endregion
     }
 }

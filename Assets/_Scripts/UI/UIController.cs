@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System;
 using System.Collections.Generic;
 using Splitten.Extensions;
@@ -10,7 +10,7 @@ namespace Splitten.UI
         [SerializeField]private UIScreen activeScreen;
 
         [SerializeField]private List<UIScreen> screens = new List<UIScreen>();
-
+        
         private Vector2 screenResolution = default;
         private void Awake()
 	    {
