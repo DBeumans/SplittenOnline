@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.UI;
 using Splitten.Extensions;
     
 namespace Splitten.UI
@@ -18,6 +19,14 @@ namespace Splitten.UI
             this.DisableScreen();
             
             this.UIController = UIController.Instance;
+        }
+
+        public virtual void Setup(Vector2 screenResolution)
+        {
+            CanvasScaler canvasScalar = this.screenCanvas.GetComponent<CanvasScaler>();
+            canvasScalar.referenceResolution = screenResolution;
+            canvasScalar.uiScaleMode = CanvasScaler.ScaleMode.ScaleWithScreenSize;
+            Debug.Log($"SCREENRESOLUTION: {screenResolution}");
         }
 
         public virtual void EnableScreen()
