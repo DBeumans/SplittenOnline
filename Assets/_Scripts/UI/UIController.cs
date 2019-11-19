@@ -10,13 +10,18 @@ namespace Splitten.UI
         [SerializeField]private UIScreen activeScreen;
 
         [SerializeField]private List<UIScreen> screens = new List<UIScreen>();
+
+        private Vector2 screenResolution = default;
         private void Awake()
 	    {
-            this.FetchScreens();
+            this.screenResolution = new Vector2(Screen.width, Screen.height);
+            Debug.Log($"SCREENRESOLUTION: {this.screenResolution}");
 
+
+            this.FetchScreens();
             this.activeScreen = this.screens[0];
             this.activeScreen.EnableScreen();
-	    }
+        }
 
         /// <summary>
         /// Change from UI Screen
@@ -62,6 +67,7 @@ namespace Splitten.UI
             for (int i = 0; i < screensLength; i++)
             {
                 this.screens.Add(uiScreens[i]);
+                uiScreens[i].Setup(this.screenResolution);
             }
         }
 
