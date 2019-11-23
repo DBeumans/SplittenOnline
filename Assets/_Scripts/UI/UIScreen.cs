@@ -26,6 +26,7 @@ namespace Splitten.UI
             CanvasScaler canvasScalar = this.screenCanvas.GetComponent<CanvasScaler>();
             canvasScalar.referenceResolution = screenResolution;
             canvasScalar.uiScaleMode = CanvasScaler.ScaleMode.ScaleWithScreenSize;
+
             Debug.Log($"SCREENRESOLUTION: {screenResolution}");
         }
 

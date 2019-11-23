@@ -11,10 +11,11 @@ namespace Splitten.UI
 
         [SerializeField]private List<UIScreen> screens = new List<UIScreen>();
         
-        private Vector2 screenResolution = default;
-        private void Awake()
+        [SerializeField]private Vector2 screenResolution = default;
+        private void Start()
 	    {
-            this.screenResolution = new Vector2(Screen.width, Screen.height);
+            if(this.screenResolution == Vector2.zero)
+                this.screenResolution = new Vector2(480, 800);
             Debug.Log($"SCREENRESOLUTION: {this.screenResolution}");
 
 
