@@ -15,10 +15,9 @@ namespace Splitten.UI
         {
             if(this.screenCanvas == null)
                 Debug.Log($"{this} has no screen assigned");
-
-            this.DisableScreen();
             
             this.UIController = UIController.Instance;
+            this.DisableScreen();
         }
 
         public virtual void Setup(Vector2 screenResolution)

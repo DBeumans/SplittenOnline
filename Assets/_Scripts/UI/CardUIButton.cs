@@ -9,11 +9,6 @@ public class CardUIButton : UIButton
 {
     public Card Card;
 
-    private void Start()
-    {
-    
-    }
-
     public void Test()
     {
         this.imageComponent.sprite = Card.Sprite;
