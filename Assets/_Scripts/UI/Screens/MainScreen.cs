@@ -5,7 +5,7 @@ using Splitten.UI;
 public class MainScreen : UIScreen
 {
     [SerializeField] private UIButton backButton;
-    [SerializeField] private UIButton deckButton;
+    [SerializeField] private UIButton playbutton;
 
     private void OnEnable()
     {
@@ -14,10 +14,11 @@ public class MainScreen : UIScreen
             base.UIController.GoToScreen<LandingScreen>();
         };
 
-        deckButton.OnButtonClick += () =>
+        playbutton.OnButtonClick += () =>
         {
             base.UIController.GoToScreen<GameplayScreen>();
         };
+
     }
 
     public override void EnableScreen()

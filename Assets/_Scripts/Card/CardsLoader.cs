@@ -13,24 +13,17 @@ namespace Splitten.Cards
 
         private string cardsDeckPath = "Sprites/Cards";
 
-        public List<Card> Deck = new List<Card>();
-
         public Action OnLoadingCompleted;
 
         private void Start()
         {
-            this.LoadDeck("Atlasnye");
+            //this.LoadDeck("Atlasnye");
         }
 
-        public void LoadDeck(string deckName)
+        public List<Card> LoadDeck(string deckName)
         {
-            this.Deck = this.Load(deckName);
-            this.OnLoadingCompleted?.Invoke();
-        }
-
-        private List<Card> Load(string cardsDeckName)
-        {
-            object[] cards = Resources.LoadAll(this.cardsDeckPath + "/" + cardsDeckName, typeof(Sprite));
+            
+            object[] cards = Resources.LoadAll(this.cardsDeckPath + "/" + deckName, typeof(Sprite));
             List<Card> deck = new List<Card>();
             int cardsLength = cards.Length;
             int count = 0;
@@ -59,7 +52,8 @@ namespace Splitten.Cards
 
                 deck.Add(card);
             }
-            
+
+            this.OnLoadingCompleted?.Invoke();
             return deck;
         }
     }
