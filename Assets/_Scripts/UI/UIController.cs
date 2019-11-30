@@ -14,9 +14,10 @@ namespace Splitten.UI
         [SerializeField]private Vector2 screenResolution = default;
         private void Start()
 	    {
-            if(this.screenResolution == Vector2.zero)
+            if((this.screenResolution == Vector2.zero) || (this.screenResolution.x < 480 && this.screenResolution.y < 800))
                 this.screenResolution = new Vector2(480, 800);
-            Debug.Log($"SCREENRESOLUTION: {this.screenResolution}");
+
+            //Debug.Log($"SCREENRESOLUTION: {this.screenResolution}");
 
 
             this.FetchScreens();

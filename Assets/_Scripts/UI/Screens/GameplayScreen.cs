@@ -1,18 +1,15 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 using Splitten.UI;
-using Splitten.Cards;
+using Splitten.Game;
 
 public class GameplayScreen : UIScreen
 {
     [SerializeField] private UIButton backButton;
 
-    [SerializeField] private CardsLoader loader;
-    public List<Card> Cards = new List<Card>();
+    private GameManager gameManager;
 
     public CardUIButton cardPrefab;
-
-    [SerializeField] private GameObject scrollView;
 
     private void OnEnable()
     {
@@ -21,26 +18,16 @@ public class GameplayScreen : UIScreen
             base.UIController.GoToScreen<MainScreen>();
         };
 
-        loader.OnLoadingCompleted += InstantiateCards;
-    }
-
-    private void InstantiateCards()
-    {
-        this.Cards = loader.Deck;
-        for (int i = 0; i < this.Cards.Count; i++)
-        {
-            CardUIButton cardObject = Instantiate(cardPrefab);
-            cardObject.transform.SetParent(scrollView.transform);
-            cardObject.Card = Cards[i];
-            cardObject.Test();
-            
-        }
+        this.gameManager = GameManager.Instance;
     }
 
     public override void EnableScreen()
     {
         base.EnableScreen();
+
+        this.gameManager.StartMatch();
     }
+
     public override void DisableScreen()
     {
         base.DisableScreen();
